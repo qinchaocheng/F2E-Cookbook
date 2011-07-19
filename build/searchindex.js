@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{"\u641c\u7d22\u9875\u9762":0,welcom:0,f2e:0,"\u6a21\u5757\u7d22\u5f15":0,indic:0,cookbook:0,content:0,tabl:0,document:0},objtypes:{},titles:["Welcome to F2E-Cookbook&#8217;s documentation!"],objnames:{},filenames:["index"]})
